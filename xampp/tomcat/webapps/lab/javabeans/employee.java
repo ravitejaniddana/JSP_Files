@@ -16,7 +16,7 @@ public class employee {
         return department;
     }
 
-    public void setDepartment(String department) { // Change here: 'SetDepartment' to 'setDepartment'
-        this.department = department; // Also corrected to assign 'dept' to 'department'
+    public void setDepartment(String department) {
+        this.department = department; 
     }
 }
