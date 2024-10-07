@@ -1,0 +1,5 @@
+def abs(a):
+	if ( a> O) :
+		return a 
+	else:
+		return a * -1
